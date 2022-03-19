@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi all, I'm Cayden",
 	description:
 		"A freshly graduated Full Stack Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / some other cool libraries and frameworks.",
-	resumeLink: "",
+	resumeLink: "https://drive.google.com/file/d/10zA-S6bQ5XfEDQTvC0BzPlbj0zdFRF3L/view?usp=sharing",
 };
 
 export const openSource = {
@@ -18,9 +18,9 @@ export const contact = {};
 export const socialLinks = {
 	facebook: "https://www.facebook.com/Forlaenu",
 	instagram: "https://www.instagram.com/forlaenu",
-	twitter: "https://twitter.com/",
+	twitter: "https://twitter.com/Forlaenu",
 	github: "https://github.com/Forlaenu",
-	linkedin: "https://www.linkedin.com/in/"
+	linkedin: "https://www.linkedin.com/in/cayden-cox-aa980a25/"
 };
 
 export const skillsSection = {
@@ -190,7 +190,7 @@ export const projects = [
 	{
 		name: "BrewFinder",
 		desc: "A solo project to demonstrate Google Maps API and redux, allowing the search of Breweries based on Open Brewery DB. ",
-		github: "https://github.com/Forlaenu/BrewFinder",
+		github: "https://github.com/Forlaenu/BrewFinder"
 	}
 	// {
 	// 	name: "lorem ipsum",
